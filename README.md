@@ -1,5 +1,5 @@
-# redibot
-
+# redibot [![CircleCI](https://circleci.com/gh/orcaman/redibot.svg?style=svg)](https://circleci.com/gh/orcaman/redibot) [![GoDoc](https://godoc.org/github.com/orcaman/redibot?status.svg)](https://godoc.org/github.com/orcaman/redibot) 
+  
 `redibot` is a redis bot for Slack I hacked on the other day. Hopefully we could turn this into something useful.  
 
 ![Alt text](/img/Bot-05.png?raw=true "redibot")
